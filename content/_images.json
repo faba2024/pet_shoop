@@ -1,0 +1,177 @@
+{
+"hero": {
+"src": "/images/hero.webp",
+"width": 2200,
+"height": 1467,
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAA4BaJYgCw7Eeq+l1x5AA/psCri6eIpUvB1qqIhKgdMoq1XuhrbL3lhfxnQVKMu3ms9WGD6b6oqC0VF8c+TW34Mtuc2E0AAAA",
+"real": false
+},
+"clinica": {
+"src": "/images/clinica.webp",
+"width": 1600,
+"height": 1069,
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsAA4BaJYwAAuQP4g4jT2AA/vTcgjrDAZLUxL/9s4w/OUld/c5lwlPxoa2SCB8ba//XHCzc4ey95z80JgHFRx3Ng45T4oAAAA==",
+"real": false
+},
+"banho-toalha": {
+"src": "/images/banho-toalha.webp",
+"width": 1300,
+"height": 867,
+"blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAA4BaJagCdAELYiKy5TWOkAD+sj/qXEU2Ijzckq5BAisCd0wHlMwFMzqlsbe0bNAg45T/T9JrZtC7fyZNhgC3fVPoGL0ZkNHKM4Ywox8U2WYAAA==",
+"real": false
+},
+"hotel-manta": {
+"src": "/images/hotel-manta.webp",
+"width": 1200,
+"height": 1800,
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoLABAAA4BaJQBOj+ABpBQo59wAAPkd3JqZFURj+bz29XXMK1mEuqtKCDEB92gGjPZg9bboHKGZnOjbRtWGSQSF92ZP8i2qiL8AAA==",
+"real": false
+},
+"farmacia-suplemento": {
+"src": "/images/farmacia-suplemento.webp",
+"width": 1400,
+"height": 933,
+"blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQAAsAA4BaJZgCdAYuHWWdwYfKVoAA/u4P+4XoT7A5dN/oVkOTgWsZn2QhO4w1BbxrTyrg6OOPE2bhcjxgc7R1OPl5b8ZZ/AnnuhS4i75wrYm75/WjBAKbYawYswuy3XoZpaAA",
+"real": false
+},
+"taxi-pug": {
+"src": "/images/taxi-pug.webp",
+"width": 1200,
+"height": 1800,
+"blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoLABAAA4BaJZQAAp2XJhX0JwAA/sEgT5uweUtSiGJmtZWLbqrKLdlGhO1t7n0LOH3NDMlRyTKKWVa9MyAviygFo3g8FerQoAA=",
+"real": false
+},
+"snack-ciano": {
+"src": "/images/snack-ciano.webp",
+"width": 1400,
+"height": 933,
+"blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJbACdAD7Kmlvz+PIAAD+grtwH2J2pmNEgRuIQMNji2lNHpY3IWqN75xuBqJAMz/Wtl9ktKN1OsK9bMoiv6Lt4+MHiTDl+EIQb4+6x1dGrf2O7P4AAA==",
+"real": false
+},
+"vet-gato": {
+"src": "/images/vet-gato.webp",
+"width": 1200,
+"height": 1800,
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoLABAAA4BaJZQAAudfNpg6oxIA4n+idqd5ldmIFPoHUYXPcT1xdXROc9WvNiyuAPNEULc6SD8lgwa5TWsgnHwkS1pFDKP/Q12QAA==",
+"real": false
+},
+"vet-chihuahua": {
+"src": "/images/vet-chihuahua.webp",
+"width": 1200,
+"height": 1800,
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoLABAAA4BaJQBYdiP7sJqD7dacAAD+54iwjO0wFG0Bgg8S8NOA36ywraO+WW/sZmI68Y2sukogicI/RSTZQgq/mbJwQkoUHdcaMAAA",
+"real": false
+},
+"banho-lavando": {
+"src": "/images/banho-lavando.webp",
+"width": 1400,
+"height": 933,
+"blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsAA4BaJZQCdAEN5TCUS+sAAP7yfTzYvA+VD7kSt74WgSagNYS2yM2hTw18JaoZWgRDCRquCWLN/Em5jMRAAAA=",
+"real": false
+},
+"tosa-mesa": {
+"src": "/images/tosa-mesa.webp",
+"width": 1400,
+"height": 932,
+"blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAsAA4BaJbACdAD5mR6mkgAA/sbYm9xwvyZ+psk+MUIeovQdQ7nuf9MlunD1CD1PJdGojjBTfeG+hw7rtEdJw46TLolZp1/gKoLFlPTkq0rknoiXmFvL4gms4AAA",
+"real": false
+},
+"secagem": {
+"src": "/images/secagem.webp",
+"width": 1200,
+"height": 800,
+"blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAA4BaJaACdH8AgshRJFwQAP7xmqNtiFLo+yC0+lOQiEG9iQ2eWoecvJoafyrTpQ4vvW0h+hqlxc7VREZymsmzzSKqI6lcZ/bT8My6k/O96wSTmI4pcRewAAAA",
+"real": false
+},
+"roupao": {
+"src": "/images/roupao.webp",
+"width": 1400,
+"height": 2004,
+"blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoLABAAA4BaJQBOgCKKjFTYiaCAAP7wSinUzTlFbmrfhGxzXYDVbw6rqygegXQWcl2E/O8jyTBlKWdLE0VbMKfemDg+jIFJkAA=",
+"real": false
+},
+"hotel-cama": {
+"src": "/images/hotel-cama.webp",
+"width": 1400,
+"height": 2100,
+"blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoLABAAA4BaJZQCdAEO0rqUAAD+78hFxJtB2hdhFIXXLXIGuCtRXsKF6k4Nxi5FjnAu7AAA",
+"real": false
+},
+"hotel-gato": {
+"src": "/images/hotel-gato.webp",
+"width": 1200,
+"height": 812,
+"blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoQAAsAA4BaJZwAD5FPslpP36MbvSAAAP7ybKF5n2pENLZO8f6OhcPSZroSEYMMtwqX4H0I4YtL2tXO3E0MNxdysRqUV9b3CLBHG1fONuzKYDa97pzwL97X529CAAAA",
+"real": false
+},
+"prod-remedio": {
+"src": "/images/prod-remedio.webp",
+"width": 1200,
+"height": 1800,
+"blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoLABAAA4BaJZwAAvqpJ2QrR96AAP75FHUzUhY9p/DLKsL7MelU8H5iwS2T1gJ856+Sb0aHhD0ykaQXdXvdxQuA3a7ck0dJNxhwX/BPgPtT9GdppIAAAA==",
+"real": false
+},
+"prod-higiene": {
+"src": "/images/prod-higiene.webp",
+"width": 1200,
+"height": 800,
+"blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAsAA4BaJbACdAEQ/Z1YT8SoAP7hhMCX19WgekPnPcE9+fp2ylt9LLV42gm04T0SRpju1kivzAyuo1zcLNWJKEJAysTAd0x/7ykQAAA=",
+"real": false
+},
+"prod-guia": {
+"src": "/images/prod-guia.webp",
+"width": 1000,
+"height": 1500,
+"blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAwAgCdASoLABAAA4BaJYwC7AEVvPuCvX1/AAD+vJyxQPUW6eV3Q7GcUXc4UVNLtsyS1R1D9W2hjH7CohskV+6b0+ngAAAA",
+"real": false
+},
+"prod-ossinhos": {
+"src": "/images/prod-ossinhos.webp",
+"width": 1200,
+"height": 798,
+"blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoQAAsAA4BaJZACdAYxZ21fqrft58AA/vBH3RJ9P+F4ZZxaquR/ZK3g7byYOSlkKIUxypKyYjsgYj5KaLTbvEwPjBRKGNKlXPkLRZsVm9Ay22eQAAA=",
+"real": false
+},
+"prod-escova": {
+"src": "/images/prod-escova.webp",
+"width": 1200,
+"height": 800,
+"blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAsAA4BaJQBWAMXr1YFm+yEkAAD+816HtttQmMko7N7529MTVAL3X0mVSQV57Dc6SqrSELjB29J+IKXIAKrFqARWcIajuMkWgTYW93V975e9EWfURIgKo/Z0z2UAAAA=",
+"real": false
+},
+"pom-laco": {
+"src": "/images/pom-laco.webp",
+"width": 487,
+"height": 651,
+"blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoMABAAA4BaJbACdADhmpfTfdj6AAD86KtfTYM7XB3hIxiBkGl0Q11J7j1zmhhJ/zPa7LjX4JsT1YmcLO+3Y0rCpToZ3GtUNraeyrxhDrInwRPph4NOMXQyoWq2uIAA",
+"real": true
+},
+"pom-sorriso": {
+"src": "/images/pom-sorriso.webp",
+"width": 489,
+"height": 603,
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoNABAAA4BaJbACdAELT3jANPvAAP5KJ+boi8jRA/1llToykrAxZYgSRlE0sAIyesqurL7toKTQqWws0NgxA8iEaONJjApmGzgN//u/YEU/hhh1fhlF3YAA",
+"real": true
+},
+"vet-mariana-pom": {
+"src": "/images/vet-mariana-pom.webp",
+"width": 480,
+"height": 615,
+"blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoMABAAA4BaJZACdAYwnzWlCPCJGQAA/fyzmBeqfcqP7LogRgeMK61FhCLrOU6n2TI2U3tZtn/1U5Bz5s97Xuk9OlTDgatqsTZNK8UzdVQa3zw7+7/oGx2jdbRxWI0+3bar1wbrgAA=",
+"real": true
+},
+"beijo-filhote": {
+"src": "/images/beijo-filhote.webp",
+"width": 465,
+"height": 607,
+"blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoMABAAA4BaJaACdADdZYNoEVYQAP7eNipigeViurKWS38zEOAf9OR2xYaQB9+H5TcdJjHH2Db9VWlJi2Eh/w5wUIDDsoovQKe8yv1DlafuF533j4h0Zr2GxRoBmu8QAAA=",
+"real": true
+},
+"spitz-colo": {
+"src": "/images/spitz-colo.webp",
+"width": 463,
+"height": 450,
+"blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJbACdAYxPFCsAyIuQAD+we5M44nEHwx3aD2r40Ahppzw4VCn4Xh2qHIPWPloo1CpX8fmEeY7ulEVdHD93oBgRvjJrQCNPuUTHX4IX5KNQ3BbsEpCeFegcKW8NsHxURBQUwq81OAAAA==",
+"real": true
+}
+}
